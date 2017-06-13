@@ -1,4 +1,4 @@
-# Kubernetes.io
+# Kubernetes.pl
 
 * Polish Kubernetes website:
   * http://kubernetes.pl/
