@@ -437,7 +437,8 @@ dd { margin-bottom: 16px; }
 
 .fixed footer { position: fixed; bottom: 0; }
 
-#miceType,#miceType2 { clear: both; }
+#miceType,#miceType2,#miceType3,#miceType4 { clear: both; }
+#miceType4 a { color: white; }
 
 html.search #docsContent { position: relative; float: none; width: 90%; max-width: 850px; margin: 0 auto; }
 html.search #docsContent #editPageButton { display: none; }
