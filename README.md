@@ -1,6 +1,6 @@
 # Kubernetes.pl
 
 * Polish Kubernetes website:
-  * http://kubernetes.pl/
+  * https://kubernetes.pl/
 * Based on main Kubernetes website:
-  * http://kubernetes.io/
+  * https://kubernetes.io/
